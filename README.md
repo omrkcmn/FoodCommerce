@@ -1,6 +1,6 @@
  ### Proje SOLID, Kurumsal Yazılım Mimari, AOP ve Yazılım Geliştirme Prensiplerine uygun geliştirildi.
 
-###Kullanılan Metodolojiler
+### Kullanılan Metodolojiler
 * .Net Core 3.1
 * **Cross Cutting Concerns** **interceptor *Autofac** kütüphanesi ile implemente edildi
   * Performance   
